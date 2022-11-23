@@ -9,7 +9,7 @@
   "author": "ProhorKr",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "del": "^5.1.0",
     "flexslider": "^2.7.2",
     "gulp": "^4.0.2",
